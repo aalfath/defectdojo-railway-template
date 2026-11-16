@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/defectdojo?utm_medium=integration&utm_source=button&utm_campaign=defectdojo)
+
 # DefectDojo on Railway
 
 Railway template for [DefectDojo](https://github.com/DefectDojo/django-DefectDojo), the open-source DevSecOps and vulnerability management platform. It imports results from 200+ security scanners, deduplicates findings and tracks them across products, engagements and tests.
